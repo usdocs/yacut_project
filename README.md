@@ -42,7 +42,7 @@ python -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-Создайте репозиторий для миграций:
+Создать репозиторий для миграций:
 ```bash
 flask db init
 ```
