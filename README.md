@@ -1,7 +1,7 @@
 # yacut
-[![Python](https://img.shields.io/badge/-Python-464646?style=flat&logo=Python&logoColor=56C0C0&color=008080)](https://www.python.org/)
-[![Flask](https://img.shields.io/badge/-Flask-464646?style=flat&logo=Flask&&logoColor=56C0C0&color=008080)](https://flask.palletsprojects.com/en/latest/)
-[![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-464646?style=flat&logo=SQLAlchemy&logoColor=56C0C0&color=008080)](https://www.sqlalchemy.org/)
+[![Python](https://img.shields.io/badge/-Python-464646?style=flat&logo=Python&logoColor=ffffff&color=5fe620)](https://www.python.org/)
+[![Flask](https://img.shields.io/badge/-Flask-464646?style=flat&logo=Flask&&logoColor=ffffff&color=5fe620)](https://flask.palletsprojects.com/en/latest/)
+[![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-464646?style=flat&logo=SQLAlchemy&logoColor=ffffff&color=5fe620)](https://www.sqlalchemy.org/)
 
 ## сервис YaCut
 Проект YaCut — это сервис укорачивания ссылок. Его назначение — ассоциировать длинную пользовательскую ссылку с короткой, которую предлагает сам пользователь или предоставляет сервис.
